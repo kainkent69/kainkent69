@@ -38,7 +38,7 @@
 
 ####  **Freenet Project - (actual name undiscloese)**
 **What is it** During the crypto boom 2019 - 2022 I decided to build an ecosystem with one usable  platform and two tokens, sadly tokens never took off.
-* **Note** this project was the last viable version of the project, because it was aquired by a startup, after its 4 months operation which has caused a lost after the peak of 3 months, and deu to the no disclosure agreement nature of the deal it was removed and handed over to them. What remains is the version that is in the pre-shipping but is working based on features. 
+* **Note** this project was the last viable version of the project, because it was aquired by a startup, after its 4 months operation which has caused a lost after the peak of 3 months, and due to the no disclosure agreement nature of the deal it was removed and handed over to them. What remains is the version that is in the pre-shipping but is working based on features. 
 
 
 
@@ -96,7 +96,7 @@
 4. **Pre-Logistic Handling:** Integrating market data and pricing early so "Shipping" is a toggle, not a 2-week task, because though menial it is a big part of the project.
 5. **81/19 Rule:**  80/20 rule is the standard enough to not overengineer or to spend less time than needed, however the 1% that are usually brushed of would be a botleneck, like documentatons, some tests and others.
 
-**Verdict:** Would 30% but more stable and linear and stable production launch .
+**Verdict:** Would 30% slower to finish development but more stable and linear and stable production launch .
 
 ---
 
@@ -111,3 +111,4 @@
 **For more information or to discuss collaboration, reach out via Email or Facebook.**
 
 
+[To Know Me](/Me.md)
