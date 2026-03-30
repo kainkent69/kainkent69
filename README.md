@@ -32,15 +32,15 @@
 * **Live Demo:** [Check it out here](https://your-demo-url.vercel.app)
 * **Architecture:** Go (Backend) + Svelte/SvelteKit (Frontend).
 * **Reviewer Access:** Use any of the following credentials (Password: `password123`)
-    * `johndoe@mail.com` | `johndoe1@mail.com` | `johndoe3@mail.com`
+    * `johndoe@mail.com` | `johndoe1@mail.com` | `johndoe3@mail.com` | `johndoe4@mail.com` | `johndoe5@mail.com`
 * **Demo Constraints:** * Signups and Profile modifications are disabled for security.
     * Subscription and "Pro" features are currently mocked for architectural review.
     * Manual approval processes (e.g., deposits) are monitored periodically.
 
-#### 📁 **Archived Legacy Project (Post-Acquisition)**
-* **Status:** Archive-only due to Non-Disclosure Agreements (NDA).
-* **Context:** This repository contains the final development-stage core before the successful acquisition and migration. 
-* **Expertise:** I personally guided the acquisition team through the migration methodology. The actual production name remains undisclosed per legal agreement, but the code is open for architectural and logic review.
+#### 📁 **Freenet Project(actual name undiscloese)**
+**What is it** During the crypto boom 2019 - 2022 I decided to build an ecosystem with one usable  platform and two tokens, sadly tokens never took off.
+* **Note** this project was the last viable version of the project, because it was aquired by a startup, after its 4 months operation which has caused a lost after the peak of 3 months, and deu to the no disclosure agreement nature of the deal it was removed and handed over to them. What remains is the version that is in the pre-shipping but is working based on features. 
+
 
 
 
@@ -63,12 +63,3 @@
     * 📧 [Your Email]
     * 📱 [Your Mobile]
     * 🔗 [Your Facebook/LinkedIn]
-<!--
-
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
