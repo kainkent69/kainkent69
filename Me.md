@@ -1,4 +1,4 @@
-# The Builder’s Log: Logic Under Constraint
+# Quick view of my journey 
 
 I’ve been into technology since I was five. Back then, we didn't have the privilege of formal studies or high-end materials, also im mostly misunderstood most of  my life, so my first "engineering" was done with whatever was around: cans, glue, nails, and scrap. I learned early that if you want to build something and you don't have the "right" tools, you make the tools yourself, i read bunch of books and apply them to what i want to build, i was  also a young businesman, i often able to raise money from my earnings when me and my cousin would look for scraps to sell. we would make and sell rafles, to little to no capital but unlike him most of my earnings i give to my parents when we are struggling. 
 

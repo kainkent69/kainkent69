@@ -1,5 +1,5 @@
 # Lou Andaya
-## A quick view to my journey 
+## Systems & Backend Engineer
 > Software Developer focused on architecting **high-concurrency systems** and production-ready full-stack tools.
 *Status:* **Self-Employed** open for Hiring
 ---
