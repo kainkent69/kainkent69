@@ -5,12 +5,12 @@ I’ve been into technology since I was five. Back then, we didn't have the priv
 In mid-2020, I finally focused on programming. It was right when the pandemic hit and school stopped. I didn't have a PC or a steady connection, so I developed a makeshift method. I’d spend an hour at an internet source (*peso wifi*), download everything I could to a phone, and then go home to study. I’d write it on my notes in a shorthand, means put enough info the shortest text as possible, then while building offline i would look to my notes,  i was able to make a site after 3 days. Two weeks later, I had my first project—a simple page with buttons, but it was mine.
 
 My first "client" was a graduating IT student who needed a thesis.
-They eventually backed out, but that failure was a pivot point. It forced me to dive into **Backend and Systems** also because most tools arent avalable on **Termux** so i stick to what is availbale nodejs, ts/js, and eventualy react. 
-I spent 1.5 years building my first, but the planning started during 2019 or 2020  major project while sitting at **Pesonets** paying by the hour and working forthe funds to be able to work there, but trying to launch that project was not easy, as i dont have money to launch it i waited for somet time but by then, the crypto buble has lessen, and it was aquired by some Defi groups who I was conversing at  that time, which get me stareted to invest.
+They eventually backed out, but that failure was a pivot point. It forced me to dive into **Backend and Systems** also because most tools arent avalable on **Termux** so i stick to what is available Node.js, TS/JS, and eventualy React. 
+I spent 1.5 years building my first, (but the planning started during 2019 or 2020)  major project while sitting at **Pesonets** paying by the hour and working for the funds to be able to work there, but trying to launch that project was not easy, as i dont have money to launch it i waited for somet time but by then, the crypto buble has lessen, and it was aquired by some Defi groups who I was conversing at  that time, which get me stareted to invest.
 i found a battered pc that was owned by then closed pesonet i used to frequent. I always try to get things with the least cost and i recycled one to make a usable system i can build with.
 
 
-face to face classes started around september 2022, during our PR i was tasked to build an ID attendance system same as what is used by [https://mvc.edu.ph/wp/](Mountain View College) as she was former student, i tried building but being the only one who worked on the pr and the dev work i decided to switch topic, and tried finishing it in 3 days luckily it won the proposal and defence. 
+face to face classes started around september 2022, during our PR i was tasked to build an ID attendance system same as what is used by [Mountain View College](https://mvc.edu.ph/wp/) as she was former student, i tried building but being the only one who worked on the pr and the dev work i decided to switch topic, and tried finishing it in 3 days luckily it won the proposal and defence. 
 
 
 I’ve always preferred to stay anonymous, constantly changing profiles and moving between accounts. I don’t care about being known; I care about the work. I’ve spent a huge amount of my time on **Reddit and 4chan**, talking to other builders, debating system architecture, and helping new learners. For me, the value is in the discussion and the build, not the name attached to it. 
@@ -45,4 +45,4 @@ I quit after the owners refused to fund the  project, they said if i could show 
 * **Late 2024:** Security breach; pivoted to Hacking/Security research.
 * **2024–2025:** Physical business management (Farms/Livestock); Deep dive into C and Low-level logic.
 * **Oct 2025 – Jan 2026:** Operations & Logistics at La Victoria Groceries; R&D for Linux-based migrations.
-* **Feb 2026 – Present:** Launching SME Integrated POS/Sales/Inventory tracker.
+* **Feb 2026 – Present:** Launching SME Integrated Payment System with Sales tracker however only payment system is currently usable.
