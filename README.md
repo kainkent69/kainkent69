@@ -25,11 +25,28 @@
 
 ---
 
-### **Current Focus**
-* 🔭 **Project Phoenix:** A high-performance Merchant & Payment System architected for **Super Microtransactions**.
-* 🚀 **Live Demo:** [Check it out here](https://your-demo-url.vercel.app)
-* *Note: Archived legacy projects (Crypto-Wallet/1k+ Users) available for architectural review.*
+### **Selected Project Work**
 
+#### 🚀 **Project Phoenix (Active Development)**
+*A high-performance Merchant & Payment System architected for **Super Microtransactions**.*
+* **Live Demo:** [Check it out here](https://your-demo-url.vercel.app)
+* **Architecture:** Go (Backend) + Svelte/SvelteKit (Frontend).
+* **Reviewer Access:** Use any of the following credentials (Password: `password123`)
+    * `johndoe@mail.com` | `johndoe1@mail.com` | `johndoe3@mail.com`
+* **Demo Constraints:** * Signups and Profile modifications are disabled for security.
+    * Subscription and "Pro" features are currently mocked for architectural review.
+    * Manual approval processes (e.g., deposits) are monitored periodically.
+
+#### 📁 **Archived Legacy Project (Post-Acquisition)**
+* **Status:** Archive-only due to Non-Disclosure Agreements (NDA).
+* **Context:** This repository contains the final development-stage core before the successful acquisition and migration. 
+* **Expertise:** I personally guided the acquisition team through the migration methodology. The actual production name remains undisclosed per legal agreement, but the code is open for architectural and logic review.
+
+
+
+--- 
+
+### Some Valuable Informations
 - 💬 **Ask me about:**
     * **Systems & Infrastructure:** Planning, designing, and executing the full lifecycle from architecture to production shipping.
     * **The 81/19 Rule:** Why the "boring" 1% of setup prevents 20% of scaling failures.
@@ -42,7 +59,7 @@
     * **Business & Strategy:** Studying Management, Marketing, and Accounting to ensure project profitability and longevity.
     * **Communication:** Actively improving how I relay technical architecture to stakeholders and collaborators.
 
-- 📫 **How to reach me:**
+- 📫 **How t reach me:**
     * 📧 [Your Email]
     * 📱 [Your Mobile]
     * 🔗 [Your Facebook/LinkedIn]
