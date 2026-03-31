@@ -39,7 +39,7 @@ I quit after the owners refused to fund the  project, they said if i could show 
 
 * **2020:** Started programming via Termux (Mobile)
 * **2021:** First major project development begins.
-* **2022:** Launched first and sold, was runnig for 3 months profitably till the 4th month. 
+* **early 2023:** Launched first and sold, was runnig for 3 months profitably till the 4th month. 
 * **2023:** Mostly took consulting, and smaller project because i was studiyng.
 * **2023–2024:** Professional consulting; Heavy involvement in anonymous builder communities.
 * **Late 2024:** Security breach; pivoted to Hacking/Security research.
