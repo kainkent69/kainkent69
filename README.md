@@ -28,10 +28,9 @@
 A project demo [Live Demo](https://llanica.online)
 
 ***Instructions**
-
-* Signups is disabled:  for security and  limit
-* Account already has balancees for testings. 
-* Some Actions are needing approval to happen and simulated it
+* Signup is disabled:  for security and  limit
+* Some features are available to the backend but not yet reflected to client or frontend
+* the wallet features are emphasized with this demo. 
 
 **How To Use**
 * **Password:**  Pass1234
