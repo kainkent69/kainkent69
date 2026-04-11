@@ -40,7 +40,8 @@ A project demo [Live Demo](https://llanica.online)
 
 **Extra Note**
 * Some ui bugs has not fixed a refresh mostly solves them, this bugs are mostly  undeterminalistic errors, sometimes by the browser.
- **Recomendations** 
+ 
+### **Recomendations** 
 * Use PC with mouse and keyboard touch was not prioritised, but works at any device. 
 * Recomended Browser *firefox* and *chromium* browses  
 
